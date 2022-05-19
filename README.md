@@ -32,3 +32,8 @@ Parameterized constructor to assign item name, item description, item price, and
  i.e. Bottled Water: Deer Park, 12 oz.*
  
  * main method: [ItemToPurchase.java](ItemToPurchase.java)
+ 
+ ## CREATE SHAPE AND FIND AREA
+ Write a program to find the area of square, rectangle, and circle using Method Overloading
+ 
+ * main method: [Shape.java](Shape.java)
