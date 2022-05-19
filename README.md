@@ -3,11 +3,11 @@
 ## FIND SEASON
 Write a program to identify the season from the date given.
 
-**Seasons**:
-* Spring: March 20 - June 20
-* Summer: June 21 - September 21
-* Autumn: September 22 - December 20
-* Winter: December 21 - March 19
+**Seasons**:</br>
+*Spring: March 20 - June 20</br>
+Summer: June 21 - September 21</br>
+Autumn: September 22 - December 20</br>
+Winter: December 21 - March 19*</br>
 
 * main method: [FindSeason.java](FindSeason.java)
 
